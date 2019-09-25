@@ -1,5 +1,9 @@
 # C++ Tutorials
 
+---
+
+Hello and welcome to a small tutorial on C++. If you are coming from CS70, I hope this works as a good resource so that you can focus solely on data structures and not have to worry about C++. If you're just coming because you're insterested in C++, I welcome you too! This tutorial will be updated throughout the semester when I find some free time. I will probably go more in depth on how the compiler works, how linking works and many other operations that occur in C++ to turn this language into machine code at some point later. For now, I will go over geting you set up, primitive variable, functions, classes, structs, header files, control statements and much more! This is also a tool for me to try to remember some basics and fundamentals I may have forgotten as well!  
+
 #### Setting up C++ on Windows
 
 ---
