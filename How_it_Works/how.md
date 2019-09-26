@@ -35,4 +35,4 @@ The `std::cin.get();` is just waiting for input from the keyboard.
 
 Even though this program is simple, a lot is happening under the hood!
 
-Let's go ahead and start looking at [variables](Basics/variables.md)
+Let's go ahead and start looking at [variables](../Basics/variables.md)
