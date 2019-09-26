@@ -81,4 +81,4 @@ To build it, just hit the play button. You will have to enable developer mode if
 
 ---
 
-Now that you've got everything set up, let's check out how [C++ works](how.md)
+Now that you've got everything set up, let's check out how [C++ works](How C++ Works/how.md")
